@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: titles.projects
 description: A growing collection of your cool projects.
+permalink: /projects/
 nav: true
 nav_order: 2
 display_categories: [work, fun]
