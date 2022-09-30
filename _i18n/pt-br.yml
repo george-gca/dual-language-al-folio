@@ -17,6 +17,33 @@ descriptions:
   repositories: Edite o `_data/repositories.yml` e mude as listas `github_users` e `github_repos` para incluir seu próprio perfil do GitHub e repositórios.
   teaching: Materiais de cursos que você ministrou. Substitua esse texto com sua descrição.
   unk: Parece que ocorreu um erro. Não existe nada aqui.
+months:
+  long:
+    january: Janeiro
+    february: Fevereiro
+    march: Março
+    april: Abril
+    may: Maio
+    june: Junho
+    july: Julho
+    august: Agosto
+    september: Setembro
+    october: Outubro
+    november: Novembro
+    december: Dezembro
+  short:
+    january: Jan
+    february: Fev
+    march: Mar
+    april: Abr
+    may: Mai
+    june: Jun
+    july: Jul
+    august: Ago
+    september: Set
+    october: Out
+    november: Nov
+    december: Dez
 projects:
   titles:
     project1: Projeto 1
