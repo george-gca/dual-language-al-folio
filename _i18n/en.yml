@@ -32,3 +32,6 @@ projects:
     project4: another without an image
     project5: a project with a background image
     project6: a project with no image
+  categories:
+    fun: fun
+    work: work
