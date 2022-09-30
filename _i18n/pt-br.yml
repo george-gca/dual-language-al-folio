@@ -11,6 +11,9 @@ titles:
   unk: página não encontrada
 descriptions:
   about: sobre
+  archive-category: um arquivo com postagens desta categoria
+  archive-tag: um arquivo com postagens com este marcador
+  archive-year: um arquivo com postagens deste ano
   blog: blogging
   publications: publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.
   projects: Uma crescente coleção de seus projetos interessantes.
