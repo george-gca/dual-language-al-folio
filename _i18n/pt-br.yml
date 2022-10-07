@@ -47,6 +47,9 @@ months:
     october: Out
     november: Nov
     december: Dez
+news:
+  titles:
+    news2: Um anúncio longo com detalhes
 projects:
   titles:
     project1: Projeto 1
